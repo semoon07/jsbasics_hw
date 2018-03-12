@@ -1,0 +1,42 @@
+a{
+    color: rgb(31, 247, 225)
+}
+span{
+    color: violet
+}
+#container{
+    width: 970px;
+    background-color: rgb(27, 27, 182);
+    padding: 5px;
+    color: rgb(175, 167, 167);
+}
+#header{
+    width: 100%;
+    background-color: red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px 0px 5px 5px;
+}
+#navigation{
+    width: 200px;
+    background-color: rgb(12, 143, 128);
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+#main_content{
+   width: 700px;
+   display: inline-block;
+   background-color: black;
+   border-radius: 5px;
+   padding: 10px;
+   margin-left: 10px;
+}
+#footer{
+    width: 100%;
+    margin-top: 10px;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 2px 0px 2px 5px;
+}
